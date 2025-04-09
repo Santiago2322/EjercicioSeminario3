@@ -1,0 +1,17 @@
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\EjercicioSeminario3.Form1.resources
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\EjercicioSeminario3.csproj.GenerateResource.cache
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\EjercicioSeminario3.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\EjercicioSeminario3.AssemblyInfoInputs.cache
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\EjercicioSeminario3.AssemblyInfo.cs
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\EjercicioSeminario3.csproj.CoreCompileInputs.cache
+C:\programacion\EjercicioSeminario3\bin\Debug\net8.0-windows\EjercicioSeminario3.exe
+C:\programacion\EjercicioSeminario3\bin\Debug\net8.0-windows\EjercicioSeminario3.deps.json
+C:\programacion\EjercicioSeminario3\bin\Debug\net8.0-windows\EjercicioSeminario3.runtimeconfig.json
+C:\programacion\EjercicioSeminario3\bin\Debug\net8.0-windows\EjercicioSeminario3.dll
+C:\programacion\EjercicioSeminario3\bin\Debug\net8.0-windows\EjercicioSeminario3.pdb
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\EjercicioSeminario3.dll
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\refint\EjercicioSeminario3.dll
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\EjercicioSeminario3.pdb
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\EjercicioSeminario3.genruntimeconfig.cache
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\ref\EjercicioSeminario3.dll
+C:\programacion\EjercicioSeminario3\obj\Debug\net8.0-windows\EjercicioSeminario3.Properties.Resources.resources
